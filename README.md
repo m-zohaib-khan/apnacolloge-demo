@@ -1,4 +1,5 @@
 # apnacolloge-demo
 this is my first repository.
 <br>
-Author - Zohaib Khan
+Author - Zohaib (apn colloge)
+
